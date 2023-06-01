@@ -1,3 +1,4 @@
+<link type="text/css" href="/project/index.html" media="all" rel="stylesheet">
 img {
   width: 50px;
 }
@@ -9,6 +10,6 @@ div img {
   margin: auto;
 }
 
-div h3 {
+h3 {
   text-align: center;
 }
