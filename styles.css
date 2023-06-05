@@ -1,14 +1,5 @@
-.table {
-  display: table;
-}
-
-.table .cell {
-  display: table-cell;
-}
-
-.table .cell-text {
-  display: table-cell;
-  vertical-align: middle;
-  text-align: center;
-  width: 100%;
+.aligned {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
 }
