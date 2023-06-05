@@ -1,6 +1,6 @@
 .aligned {
   display: flex;
-  align-items: center;
+  align-items: left;
   justify-content: space-around;
 }
 img {
