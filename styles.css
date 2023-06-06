@@ -1,9 +1,9 @@
+img{
+  width: 500px;
+}
+
 .aligned {
   display: flex;
   align-items: center;
   justify-content: space-around;
-}
-
-img{
-  width: 500px;
 }
