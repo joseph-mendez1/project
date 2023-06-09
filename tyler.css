@@ -1,1 +1,32 @@
+.container {
+    display: inline-flex;
+    align-items: center;
+  }
 
+  .container-blue {
+    background-color: #75bcff;
+  }
+
+  .container-gray {
+    background-color: gray;
+  }
+
+  .container-pink {
+    background-color: #eea4bb;
+  }
+  
+  .container-purple {
+    background-color: purple;
+  }
+  
+  .container-basilGreen {
+    background-color: #829F82;
+  }
+  
+   .container-orange {
+    background-color: orange;
+  }
+
+  .container img {
+    margin-right: 20px; /* Adjust spacing between image and text */
+  }
