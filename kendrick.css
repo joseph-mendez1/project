@@ -1,1 +1,28 @@
+.container {
+    display: inline-flex;
+    align-items: center;
+  }
 
+  .container-lightBrown {
+    background-color: #C4A484;
+  }
+
+  .container-gray {
+    background-color: gray;
+  }
+
+  .container-red {
+    background-color: red;
+  }
+  
+  .container-basilGreen {
+    background-color: #829F82;
+  }
+  
+  .container-orange {
+    background-color: orange;
+  }
+
+  .container img {
+    margin-right: 20px; /* Adjust spacing between image and text */
+  }
