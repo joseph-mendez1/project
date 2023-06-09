@@ -1,6 +1,5 @@
 <link type="text/css" href="kendrick.css" media="all" rel="stylesheet">
-<span style="display: block;"></span>
-
+<div style="display: flex; flex-direction: column;">
 <audio controls>
   <source src="https://drive.google.com/uc?export=download&id=13YT9s9lHIbeNDj2hKENN2btLiDjQGMbL" type="audio/mpeg">
 </audio>"
@@ -9,7 +8,7 @@
   <img src="https://media.pitchfork.com/photos/627c1023d3c744a67a846260/1:1/w_600/Kendrick-Lamar-Mr-Morale-And-The-Big-Steppers.jpg"  width = 50>
   <p>Mr. Morale & The Big Steppersㅤㅤㅤㅤㅤㅤ</p>
 </div>
-
+</div>
 <div style="padding-bottom: 5px;"></div>
 
 <div class="container container-red">
